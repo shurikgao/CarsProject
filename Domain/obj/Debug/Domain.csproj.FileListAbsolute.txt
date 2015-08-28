@@ -41,3 +41,4 @@ D:\GiT\Internship_Project\CarsProject\Domain\bin\Debug\Domain.dll
 D:\GiT\Internship_Project\CarsProject\Domain\bin\Debug\Domain.pdb
 D:\GiT\Internship_Project\CarsProject\Domain\obj\Debug\Domain.dll
 D:\GiT\Internship_Project\CarsProject\Domain\obj\Debug\Domain.pdb
+D:\GiT\Internship_Project\CarsProject\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

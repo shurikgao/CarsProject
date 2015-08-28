@@ -55,6 +55,7 @@
     <Compile Include="GermanyCarMap.cs" />
     <Compile Include="JapanCarCarMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrationPlateMap.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

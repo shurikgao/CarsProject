@@ -55,7 +55,7 @@ namespace Repository
                         x.FluentMappings.AddFromAssembly(
                             typeof (CarMap).Assembly))
                 .ExposeConfiguration(
-                    cfg => new SchemaUpdate(cfg).Execute(false, true));
+                    cfg => new SchemaUpdate(cfg).Execute(true, true));
 
 
             return configuration.BuildSessionFactory();

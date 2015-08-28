@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="ICarRepository.cs" />
     <Compile Include="IDriverRepository.cs" />
+    <Compile Include="IRegistrationPlateRepository.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

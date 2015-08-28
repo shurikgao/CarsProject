@@ -56,6 +56,9 @@ namespace Domain.Domain
         public virtual int TankVol { get; protected set; }
         public virtual string BodyType { get; protected set; }
         public virtual string CountryOfOrigin { get; protected set; }
+        
+        public virtual RegistrationPlate Plate
+        { get; set; }
 
         public virtual IList<Driver> Drivers
         {

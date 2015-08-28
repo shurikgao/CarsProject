@@ -58,6 +58,8 @@
     <Compile Include="Domain\TemplateMethod\IStartAirConditioner.cs" />
     <Compile Include="Domain\Driver.cs" />
     <Compile Include="Domain\Entity.cs" />
+    <Compile Include="Domain\RegistrationPlate.cs" />
+    <Compile Include="Domain\Tuning.cs" />
     <Compile Include="Logger\Logger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
