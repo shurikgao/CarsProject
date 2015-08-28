@@ -43,3 +43,18 @@ D:\GiT\Internship_Project\CarsProject\Tests\bin\Debug\nunit.framework.xml
 D:\GiT\Internship_Project\CarsProject\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
 D:\GiT\Internship_Project\CarsProject\Tests\obj\Debug\Tests.dll
 D:\GiT\Internship_Project\CarsProject\Tests\obj\Debug\Tests.pdb
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\Tests.dll
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\Tests.pdb
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\Domain.dll
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\Factories.dll
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\InterfaceActions.dll
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\Moq.dll
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\nunit.framework.dll
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\Factories.pdb
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\Domain.pdb
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\InterfaceActions.pdb
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\Moq.xml
+E:\AMDARIS\## GitHub\CarsProject\Tests\bin\Debug\nunit.framework.xml
+E:\AMDARIS\## GitHub\CarsProject\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+E:\AMDARIS\## GitHub\CarsProject\Tests\obj\Debug\Tests.dll
+E:\AMDARIS\## GitHub\CarsProject\Tests\obj\Debug\Tests.pdb

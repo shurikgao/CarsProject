@@ -61,3 +61,10 @@ D:\GiT\Internship_Project\CarsProject\InterfaceActions\bin\Debug\Domain.pdb
 D:\GiT\Internship_Project\CarsProject\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
 D:\GiT\Internship_Project\CarsProject\InterfaceActions\obj\Debug\InterfaceActions.dll
 D:\GiT\Internship_Project\CarsProject\InterfaceActions\obj\Debug\InterfaceActions.pdb
+E:\AMDARIS\## GitHub\CarsProject\InterfaceActions\bin\Debug\InterfaceActions.dll
+E:\AMDARIS\## GitHub\CarsProject\InterfaceActions\bin\Debug\InterfaceActions.pdb
+E:\AMDARIS\## GitHub\CarsProject\InterfaceActions\bin\Debug\Domain.dll
+E:\AMDARIS\## GitHub\CarsProject\InterfaceActions\bin\Debug\Domain.pdb
+E:\AMDARIS\## GitHub\CarsProject\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+E:\AMDARIS\## GitHub\CarsProject\InterfaceActions\obj\Debug\InterfaceActions.dll
+E:\AMDARIS\## GitHub\CarsProject\InterfaceActions\obj\Debug\InterfaceActions.pdb

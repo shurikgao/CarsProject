@@ -96,3 +96,17 @@ D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\NHibernate.xml
 D:\GiT\Internship_Project\CarsProject\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
 D:\GiT\Internship_Project\CarsProject\DomainMapping\obj\Debug\DomainMapping.dll
 D:\GiT\Internship_Project\CarsProject\DomainMapping\obj\Debug\DomainMapping.pdb
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\DomainMapping.dll
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\DomainMapping.pdb
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\Domain.dll
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\FluentNHibernate.dll
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\Iesi.Collections.dll
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\NHibernate.dll
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\Domain.pdb
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\FluentNHibernate.pdb
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\FluentNHibernate.xml
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\Iesi.Collections.xml
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\bin\Debug\NHibernate.xml
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\obj\Debug\DomainMapping.dll
+E:\AMDARIS\## GitHub\CarsProject\DomainMapping\obj\Debug\DomainMapping.pdb

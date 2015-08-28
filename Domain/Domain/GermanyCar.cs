@@ -4,9 +4,9 @@ namespace Domain.Domain
 {
     public class GermanyCar : Car
     {
-        public GermanyCar(string name, int engineVol, int tankVol, string bodyType, string countryOfOrigin,
+        public GermanyCar(string brand,string name, int engineVol, int tankVol, string bodyType, string countryOfOrigin,
             int percentOfPrestige)
-            : base(name, engineVol, tankVol, bodyType, countryOfOrigin)
+            : base(brand,name, engineVol, tankVol, bodyType, countryOfOrigin)
         {
             Prestige = percentOfPrestige;
         }

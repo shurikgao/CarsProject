@@ -79,3 +79,12 @@ D:\GiT\Internship_Project\CarsProject\ActionImplementations\bin\Debug\InterfaceA
 D:\GiT\Internship_Project\CarsProject\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
 D:\GiT\Internship_Project\CarsProject\ActionImplementations\obj\Debug\ActionImplementations.dll
 D:\GiT\Internship_Project\CarsProject\ActionImplementations\obj\Debug\ActionImplementations.pdb
+E:\AMDARIS\## GitHub\CarsProject\ActionImplementations\bin\Debug\ActionImplementations.dll
+E:\AMDARIS\## GitHub\CarsProject\ActionImplementations\bin\Debug\ActionImplementations.pdb
+E:\AMDARIS\## GitHub\CarsProject\ActionImplementations\bin\Debug\Domain.dll
+E:\AMDARIS\## GitHub\CarsProject\ActionImplementations\bin\Debug\InterfaceActions.dll
+E:\AMDARIS\## GitHub\CarsProject\ActionImplementations\bin\Debug\Domain.pdb
+E:\AMDARIS\## GitHub\CarsProject\ActionImplementations\bin\Debug\InterfaceActions.pdb
+E:\AMDARIS\## GitHub\CarsProject\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+E:\AMDARIS\## GitHub\CarsProject\ActionImplementations\obj\Debug\ActionImplementations.dll
+E:\AMDARIS\## GitHub\CarsProject\ActionImplementations\obj\Debug\ActionImplementations.pdb

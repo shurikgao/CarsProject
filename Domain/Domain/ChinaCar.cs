@@ -4,9 +4,9 @@ namespace Domain.Domain
 {
     public class ChinaCar : Car
     {
-        public ChinaCar(string name, int engineVol, int tankVol, string bodyType, string countryOfOrigin,
+        public ChinaCar(string brand,string name, int engineVol, int tankVol, string bodyType, string countryOfOrigin,
             int percentOfOriginalPieces)
-            : base(name, engineVol, tankVol, bodyType, countryOfOrigin)
+            : base(brand, name, engineVol, tankVol, bodyType, countryOfOrigin)
         {
             Originality = percentOfOriginalPieces;
         }

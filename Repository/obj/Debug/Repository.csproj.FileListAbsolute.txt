@@ -122,3 +122,15 @@ D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\RepositoryInterfaces.
 D:\GiT\Internship_Project\CarsProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
 D:\GiT\Internship_Project\CarsProject\Repository\obj\Debug\Repository.dll
 D:\GiT\Internship_Project\CarsProject\Repository\obj\Debug\Repository.pdb
+E:\AMDARIS\## GitHub\CarsProject\Repository\bin\Debug\Repository.dll
+E:\AMDARIS\## GitHub\CarsProject\Repository\bin\Debug\Repository.pdb
+E:\AMDARIS\## GitHub\CarsProject\Repository\bin\Debug\Domain.dll
+E:\AMDARIS\## GitHub\CarsProject\Repository\bin\Debug\DomainMapping.dll
+E:\AMDARIS\## GitHub\CarsProject\Repository\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\AMDARIS\## GitHub\CarsProject\Repository\bin\Debug\RepositoryInterfaces.dll
+E:\AMDARIS\## GitHub\CarsProject\Repository\bin\Debug\DomainMapping.pdb
+E:\AMDARIS\## GitHub\CarsProject\Repository\bin\Debug\Domain.pdb
+E:\AMDARIS\## GitHub\CarsProject\Repository\bin\Debug\RepositoryInterfaces.pdb
+E:\AMDARIS\## GitHub\CarsProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\AMDARIS\## GitHub\CarsProject\Repository\obj\Debug\Repository.dll
+E:\AMDARIS\## GitHub\CarsProject\Repository\obj\Debug\Repository.pdb

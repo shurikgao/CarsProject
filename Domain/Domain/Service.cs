@@ -9,12 +9,12 @@ namespace Domain.Domain
         {
             if (car.SystemOk)
             {
-                Console.WriteLine("Car's systems are OK..." + car.Name);
+                Console.WriteLine("Car's systems are OK..."+ car.Brand + " " + car.Name);
                 Console.WriteLine(new string('-', 30));
             }
             else
             {
-                Console.WriteLine("Info=Service is needed - {0,-13} deffect = Battery{1,8}", car.Name, car.BattOk);
+                Console.WriteLine("Info=Service is needed - {0,-13} deffect = Battery{1,8}", car.Brand + " " + car.Name, car.BattOk);
 
                 Console.WriteLine(new string('-', 30));
             }
@@ -29,7 +29,7 @@ namespace Domain.Domain
             car.CheckAllSystem();
             var bill = CashRegister.Payd;
             bill.AddBill(200);
-            Console.WriteLine(" {0,26} Repaired.  Please pay:{1,14}", car.Name,
+            Console.WriteLine(" {0,26} Repaired.  Please pay:{1,14}", car.Brand + " " + car.Name,
                 bill.BillSize.ToString("C", CultureInfo.CurrentCulture));
             //bill.AddBill(200); 
             // Console.WriteLine("please pay:" + bill.BillSize.ToString("C",CultureInfo.CurrentCulture));

@@ -36,10 +36,10 @@ namespace Presentation
             CarRepository = ServiceLocator.Get<ICarRepository>();
             DriverRepository = ServiceLocator.Get<IDriverRepository>();
 
-            var bmw = GermanyCarFactory.CreateNewGermanyCar("BMW", 3500, 100, "Sedan", "Germany", 98);
+            var bmw = GermanyCarFactory.CreateNewGermanyCar("BMW","X5", 3500, 100, "Sedan", "Germany", 98);
             var germanyCarFactory = new GermanyCarFactory(new EmailNotification());
 
-            var honda = JapanCarFactory.CreateNewJapanCar("Honda", 2000, 70, "Hatchbag", "Japan", 99);
+            var honda = JapanCarFactory.CreateNewJapanCar("Honda","Civic", 2000, 70, "Hatchbag", "Japan", 99);
             var japanCarFactory = new JapanCarFactory(new SmsNotification());
 
             var testDriver = new Driver("UasiaWay", 21, bmw);
@@ -64,14 +64,14 @@ namespace Presentation
             Console.ReadKey();
 
 
-            var audi = GermanyCarFactory.CreateNewGermanyCar("Audi", 2500, 80, "Universal", "Germany", 99);
+            var audi = GermanyCarFactory.CreateNewGermanyCar("Audi","A8", 2500, 80, "Universal", "Germany", 99);
             Console.WriteLine(new string('-', 30));
 
             //var JapanCarFactory = new JapanCarFactory(); 
 
 
             var ChinaCarFactory = new ChinaCarFactory();
-            var byd = ChinaCarFactory.CreateNewChinaCar("BYD", 1300, 50, "ChinaStyle", "China", 101);
+            var byd = ChinaCarFactory.CreateNewChinaCar("BYD","BYD", 1300, 50, "ChinaStyle", "China", 101);
 
 
             #region Tuning
@@ -87,7 +87,7 @@ namespace Presentation
             #region Germany car info
 
             Console.WriteLine(new string('-', 30));
-            Console.WriteLine("GermanyCar : " + bmw.Name);
+            Console.WriteLine("GermanyCar : " + bmw.Brand + " " + bmw.Name);
             Console.WriteLine(bmw.Name + " engine: " + bmw.EngineIsStarted);
             Console.WriteLine(bmw.Name + " lights: " + bmw.lights);
             Console.WriteLine(new string('-', 30));
@@ -98,7 +98,7 @@ namespace Presentation
 
             #region Japan car info
 
-            Console.WriteLine("JapanCar : " + honda.Name);
+            Console.WriteLine("JapanCar : " + honda.Brand + " " + honda.Name);
             Console.WriteLine(honda.Name + " engine: " + honda.EngineIsStarted);
             Console.WriteLine(honda.Name + " lights: " + honda.lights);
             Console.WriteLine(new string('-', 30));
@@ -110,7 +110,7 @@ namespace Presentation
 
             #region China car info
 
-            Console.WriteLine("ChinaCar : " + byd.Name);
+            Console.WriteLine("ChinaCar : " + byd.Brand+ " " + byd.Name);
             Console.WriteLine(byd.Name + " engine: " + byd.EngineIsStarted);
             Console.WriteLine(byd.Name + " lights: " + byd.lights);
             Console.WriteLine(new string('-', 30));

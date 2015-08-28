@@ -6,11 +6,11 @@ namespace Factories.Factory
     {
         public static int percentOfOriginalPieces { get; set; }
 
-        public static ChinaCar CreateNewChinaCar(string name, int engineVol, int tankVol, string bodyType,
+        public static ChinaCar CreateNewChinaCar(string brand,string name, int engineVol, int tankVol, string bodyType,
             string countryOfOrigin, int percentOfOriginalPieces)
             //Action<IProductOptions> optionalParams)
         {
-            var chinaCar = new ChinaCar(name, engineVol, tankVol, bodyType, countryOfOrigin, percentOfOriginalPieces);
+            var chinaCar = new ChinaCar(brand, name, engineVol, tankVol, bodyType, countryOfOrigin, percentOfOriginalPieces);
             return chinaCar;
         }
     }

@@ -205,3 +205,35 @@ D:\GiT\Internship_Project\CarsProject\Presentation\bin\Debug\Iesi.Collections.xm
 D:\GiT\Internship_Project\CarsProject\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
 D:\GiT\Internship_Project\CarsProject\Presentation\obj\Debug\Presentation.exe
 D:\GiT\Internship_Project\CarsProject\Presentation\obj\Debug\Presentation.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Presentation.exe.config
+E:\AMDARIS\## GitHub\CarsProject\Presentation\obj\Debug\Presentation.exe
+E:\AMDARIS\## GitHub\CarsProject\Presentation\obj\Debug\Presentation.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Presentation.exe
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Presentation.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\ActionImplementations.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Domain.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Factories.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\HibernatingRhinos.Profiler.Appender.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Infrastructure.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\InterfaceActions.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\RepositoryInterfaces.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Ninject.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Repository.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\NHibernate.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\FluentNHibernate.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\DomainMapping.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Iesi.Collections.dll
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\ActionImplementations.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Factories.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Domain.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Infrastructure.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\InterfaceActions.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\RepositoryInterfaces.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Ninject.xml
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Repository.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\NHibernate.xml
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\FluentNHibernate.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\FluentNHibernate.xml
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\DomainMapping.pdb
+E:\AMDARIS\## GitHub\CarsProject\Presentation\bin\Debug\Iesi.Collections.xml
+E:\AMDARIS\## GitHub\CarsProject\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache

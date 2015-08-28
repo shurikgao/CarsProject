@@ -47,3 +47,10 @@ D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\bin\Debug\Domain.pdb
 D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
 D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
 D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb
+E:\AMDARIS\## GitHub\CarsProject\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.dll
+E:\AMDARIS\## GitHub\CarsProject\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.pdb
+E:\AMDARIS\## GitHub\CarsProject\RepositoryInterfaces\bin\Debug\Domain.dll
+E:\AMDARIS\## GitHub\CarsProject\RepositoryInterfaces\bin\Debug\Domain.pdb
+E:\AMDARIS\## GitHub\CarsProject\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
+E:\AMDARIS\## GitHub\CarsProject\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
+E:\AMDARIS\## GitHub\CarsProject\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb

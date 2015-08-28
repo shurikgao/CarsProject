@@ -6,6 +6,7 @@ namespace DomainMapping
     {
         public CarMap()
         {
+            Map(x => x.Brand).Not.Nullable();
             Map(x => x.Name).Not.Nullable();
             Map(x => x.EngineVol).Not.Nullable();
             Map(x => x.TankVol).Not.Nullable();

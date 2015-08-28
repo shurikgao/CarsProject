@@ -14,11 +14,11 @@ namespace Factories.Factory
 
         public int percentOfPrestige { get; set; }
 
-        public GermanyCar CreateNewGermanyCar(string name, int engineVol, int tankVol, string bodyType,
+        public GermanyCar CreateNewGermanyCar(string brand,string name, int engineVol, int tankVol, string bodyType,
             string countryOfOrigin, int percentOfPrestige)
             //Action<IProductOptions> optionalParams)
         {
-            var germanyCar = new GermanyCar(name, engineVol, tankVol, bodyType, countryOfOrigin, percentOfPrestige);
+            var germanyCar = new GermanyCar(brand,name, engineVol, tankVol, bodyType, countryOfOrigin, percentOfPrestige);
             OnGermanyCarCreation(germanyCar);
             return germanyCar;
         }

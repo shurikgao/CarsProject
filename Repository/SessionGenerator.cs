@@ -48,14 +48,14 @@ namespace Repository
                             builder.Database(
                                 "MyDB_NHib")
                                 .Server(
-                                    @"MDDSK40106")
+                                    @"ALEX-PC")
                                 .TrustedConnection()))
                 .Mappings(
                     x =>
                         x.FluentMappings.AddFromAssembly(
                             typeof (CarMap).Assembly))
                 .ExposeConfiguration(
-                    cfg => new SchemaUpdate(cfg).Execute(true, true));
+                    cfg => new SchemaUpdate(cfg).Execute(false, true));
 
 
             return configuration.BuildSessionFactory();

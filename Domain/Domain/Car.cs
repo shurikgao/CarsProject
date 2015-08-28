@@ -19,11 +19,10 @@ namespace Domain.Domain
         public virtual IRdsSubscriber Receiver
         {
             get { return _receiver; }
-        
         }
 
 
-        public Car(string name, int engineVol, int tankVol, string bodyType, string countryOfOrigin)
+        public Car(string brand,string name, int engineVol, int tankVol, string bodyType, string countryOfOrigin)
         {
             if (string.IsNullOrWhiteSpace(name))
                 throw new ArgumentException("name is required.");
@@ -36,6 +35,7 @@ namespace Domain.Domain
             if (!countryOfOrigin.Any())
                 throw new ArgumentException("Assign countryOfOrigin to a car.");
 
+            Brand = brand;
             Name = name;
             EngineVol = engineVol;
             TankVol = tankVol;
@@ -51,6 +51,7 @@ namespace Domain.Domain
 
         public virtual bool SystemOk { get; set; }
         public virtual bool BattOk { get; set; }
+        public virtual string Brand { get; set; }
         public virtual string Name { get; protected set; }
         public virtual int EngineVol { get; protected set; }
         public virtual int TankVol { get; protected set; }
@@ -93,7 +94,7 @@ namespace Domain.Domain
         public virtual void AddTuning()
         {
             Console.WriteLine(new string('+', 10));
-            Console.WriteLine("Car " + Name + " ready for tune");
+            Console.WriteLine("Car " + Brand +" " + Name + " ready for tune");
         }
 
         public virtual bool GetSystemStatus()
@@ -113,7 +114,7 @@ namespace Domain.Domain
 
         public virtual void CheckAllSystem()
         {
-            if (BattOk /* && tirePressure>2*/)
+            if (GetBattStatus() /* && tirePressure>2*/)
                 SystemOk = true;
             else
                 SystemOk = false;
@@ -134,12 +135,12 @@ namespace Domain.Domain
 
         public override string ToString()
         {
-            return "Car:" + Name + " " + BodyType + " / engine: " + EngineIsStarted + " / lights:" + lights;
+            return "Car:" + Brand + " " + Name + " " + BodyType + " / engine: " + EngineIsStarted + " / lights:" + lights;
         }
 
         protected virtual void CloseWindows()
         {
-            Console.WriteLine(Name + "  All Windows are closed");
+            Console.WriteLine(Brand + " " + Name + "  All Windows are closed");
         }
 
         public virtual void Drive()
