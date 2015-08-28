@@ -110,3 +110,15 @@ C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Reposit
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\NHibernate.xml
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\obj\Debug\Repository.dll
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\obj\Debug\Repository.pdb
+D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\Repository.dll
+D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\Repository.pdb
+D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\Domain.dll
+D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\DomainMapping.dll
+D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\RepositoryInterfaces.dll
+D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\DomainMapping.pdb
+D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\Domain.pdb
+D:\GiT\Internship_Project\CarsProject\Repository\bin\Debug\RepositoryInterfaces.pdb
+D:\GiT\Internship_Project\CarsProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\GiT\Internship_Project\CarsProject\Repository\obj\Debug\Repository.dll
+D:\GiT\Internship_Project\CarsProject\Repository\obj\Debug\Repository.pdb

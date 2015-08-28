@@ -54,3 +54,10 @@ C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.dll
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.pdb
+D:\GiT\Internship_Project\CarsProject\InterfaceActions\bin\Debug\InterfaceActions.dll
+D:\GiT\Internship_Project\CarsProject\InterfaceActions\bin\Debug\InterfaceActions.pdb
+D:\GiT\Internship_Project\CarsProject\InterfaceActions\bin\Debug\Domain.dll
+D:\GiT\Internship_Project\CarsProject\InterfaceActions\bin\Debug\Domain.pdb
+D:\GiT\Internship_Project\CarsProject\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+D:\GiT\Internship_Project\CarsProject\InterfaceActions\obj\Debug\InterfaceActions.dll
+D:\GiT\Internship_Project\CarsProject\InterfaceActions\obj\Debug\InterfaceActions.pdb

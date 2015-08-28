@@ -40,3 +40,10 @@ C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Reposit
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb
+D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.dll
+D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.pdb
+D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\bin\Debug\Domain.dll
+D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\bin\Debug\Domain.pdb
+D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
+D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
+D:\GiT\Internship_Project\CarsProject\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb

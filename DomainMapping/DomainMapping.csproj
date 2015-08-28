@@ -60,7 +60,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\InternshipProject\Domain\Domain.csproj">
+    <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{1b15dc0b-e2dc-4f74-a21f-e88538dcd9ad}</Project>
       <Name>Domain</Name>
     </ProjectReference>

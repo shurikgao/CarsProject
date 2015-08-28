@@ -82,3 +82,17 @@ C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainM
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\obj\Debug\DomainMapping.dll
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\obj\Debug\DomainMapping.pdb
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\DomainMapping.dll
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\DomainMapping.pdb
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\Domain.dll
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\FluentNHibernate.dll
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\Iesi.Collections.dll
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\NHibernate.dll
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\Domain.pdb
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\FluentNHibernate.pdb
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\FluentNHibernate.xml
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\Iesi.Collections.xml
+D:\GiT\Internship_Project\CarsProject\DomainMapping\bin\Debug\NHibernate.xml
+D:\GiT\Internship_Project\CarsProject\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
+D:\GiT\Internship_Project\CarsProject\DomainMapping\obj\Debug\DomainMapping.dll
+D:\GiT\Internship_Project\CarsProject\DomainMapping\obj\Debug\DomainMapping.pdb

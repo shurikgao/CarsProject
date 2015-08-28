@@ -70,3 +70,12 @@ C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementa
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.dll
 C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.pdb
+D:\GiT\Internship_Project\CarsProject\ActionImplementations\bin\Debug\ActionImplementations.dll
+D:\GiT\Internship_Project\CarsProject\ActionImplementations\bin\Debug\ActionImplementations.pdb
+D:\GiT\Internship_Project\CarsProject\ActionImplementations\bin\Debug\Domain.dll
+D:\GiT\Internship_Project\CarsProject\ActionImplementations\bin\Debug\InterfaceActions.dll
+D:\GiT\Internship_Project\CarsProject\ActionImplementations\bin\Debug\Domain.pdb
+D:\GiT\Internship_Project\CarsProject\ActionImplementations\bin\Debug\InterfaceActions.pdb
+D:\GiT\Internship_Project\CarsProject\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+D:\GiT\Internship_Project\CarsProject\ActionImplementations\obj\Debug\ActionImplementations.dll
+D:\GiT\Internship_Project\CarsProject\ActionImplementations\obj\Debug\ActionImplementations.pdb

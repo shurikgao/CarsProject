@@ -19,11 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET_Testing", "ADO.NET_Testing\ADO.NET_Testing.csproj", "{8BFA86CB-22A3-4757-BC37-06D1AECFD7D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainMapping", "..\IntershipProjectNHibernate\DomainMapping\DomainMapping.csproj", "{3AADBA86-26CF-4DB9-A68F-8EE00F922314}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainMapping", "DomainMapping\DomainMapping.csproj", "{3AADBA86-26CF-4DB9-A68F-8EE00F922314}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\IntershipProjectNHibernate\Repository\Repository.csproj", "{AE276CF1-E149-4568-AAC9-D776BDC9AA20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{AE276CF1-E149-4568-AAC9-D776BDC9AA20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryInterfaces", "..\IntershipProjectNHibernate\RepositoryInterfaces\RepositoryInterfaces.csproj", "{1133E91F-9689-4673-96F1-0985677F716B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryInterfaces", "RepositoryInterfaces\RepositoryInterfaces.csproj", "{1133E91F-9689-4673-96F1-0985677F716B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
