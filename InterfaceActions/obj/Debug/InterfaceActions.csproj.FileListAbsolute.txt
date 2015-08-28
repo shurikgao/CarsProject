@@ -1,0 +1,56 @@
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\Domain.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\Domain.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\InterfaceActions\obj\Debug\InterfaceActions.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\InterfaceActions\obj\Debug\InterfaceActions.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\Domain.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\Domain.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\InterfaceActions\obj\Debug\InterfaceActions.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\InterfaceActions\obj\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\InterfaceActions\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\InterfaceActions\obj\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\InterfaceActions\obj\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\InterfaceActions\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\InterfaceActions\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\InterfaceActions\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\InterfaceActions\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\InterfaceActions\obj\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\InterfaceActions\obj\Debug\InterfaceActions.pdb
+D:\amd_aga\InternshipProject\InterfaceActions\bin\Debug\InterfaceActions.dll
+D:\amd_aga\InternshipProject\InterfaceActions\bin\Debug\InterfaceActions.pdb
+D:\amd_aga\InternshipProject\InterfaceActions\bin\Debug\Domain.dll
+D:\amd_aga\InternshipProject\InterfaceActions\bin\Debug\Domain.pdb
+D:\amd_aga\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+D:\amd_aga\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.dll
+D:\amd_aga\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\InterfaceActions\bin\Debug\InterfaceActions.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\InterfaceActions\bin\Debug\InterfaceActions.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\InterfaceActions\bin\Debug\Domain.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\InterfaceActions\bin\Debug\Domain.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\InterfaceActions\obj\Debug\InterfaceActions.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\InterfaceActions\obj\Debug\InterfaceActions.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\InterfaceActions\bin\Debug\InterfaceActions.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\InterfaceActions\bin\Debug\InterfaceActions.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\InterfaceActions\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\InterfaceActions\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\bin\Debug\InterfaceActions.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\bin\Debug\InterfaceActions.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\InterfaceActions\obj\Debug\InterfaceActions.pdb

@@ -1,0 +1,72 @@
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Factories.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Factories.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Domain.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Domain.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ConsoleApplication1\obj\Debug\Factories.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ConsoleApplication1\obj\Debug\Factories.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ConsoleApplication1\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Factories.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Factories.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Domain.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Domain.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ConsoleApplication1\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ConsoleApplication1\obj\Debug\Factories.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ConsoleApplication1\obj\Debug\Factories.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Factories.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Factories.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ConsoleApplication1\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ConsoleApplication1\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ConsoleApplication1\obj\Debug\Factories.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ConsoleApplication1\obj\Debug\Factories.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ConsoleApplication1\bin\Debug\Factories.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ConsoleApplication1\bin\Debug\Factories.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ConsoleApplication1\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ConsoleApplication1\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ConsoleApplication1\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ConsoleApplication1\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ConsoleApplication1\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ConsoleApplication1\obj\Debug\Factories.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ConsoleApplication1\obj\Debug\Factories.pdb
+D:\amd_aga\InternshipProject\ConsoleApplication1\bin\Debug\Factories.dll
+D:\amd_aga\InternshipProject\ConsoleApplication1\bin\Debug\Factories.pdb
+D:\amd_aga\InternshipProject\ConsoleApplication1\bin\Debug\Domain.dll
+D:\amd_aga\InternshipProject\ConsoleApplication1\bin\Debug\InterfaceActions.dll
+D:\amd_aga\InternshipProject\ConsoleApplication1\bin\Debug\Domain.pdb
+D:\amd_aga\InternshipProject\ConsoleApplication1\bin\Debug\InterfaceActions.pdb
+D:\amd_aga\InternshipProject\ConsoleApplication1\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+D:\amd_aga\InternshipProject\ConsoleApplication1\obj\Debug\Factories.dll
+D:\amd_aga\InternshipProject\ConsoleApplication1\obj\Debug\Factories.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ConsoleApplication1\bin\Debug\Factories.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ConsoleApplication1\bin\Debug\Factories.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ConsoleApplication1\bin\Debug\Domain.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ConsoleApplication1\bin\Debug\InterfaceActions.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ConsoleApplication1\bin\Debug\Domain.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ConsoleApplication1\bin\Debug\InterfaceActions.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ConsoleApplication1\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ConsoleApplication1\obj\Debug\Factories.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ConsoleApplication1\obj\Debug\Factories.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ConsoleApplication1\bin\Debug\Factories.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ConsoleApplication1\bin\Debug\Factories.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ConsoleApplication1\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ConsoleApplication1\bin\Debug\InterfaceActions.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ConsoleApplication1\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ConsoleApplication1\bin\Debug\InterfaceActions.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ConsoleApplication1\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ConsoleApplication1\obj\Debug\Factories.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ConsoleApplication1\obj\Debug\Factories.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ConsoleApplication1\bin\Debug\Factories.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ConsoleApplication1\bin\Debug\Factories.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ConsoleApplication1\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ConsoleApplication1\bin\Debug\InterfaceActions.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ConsoleApplication1\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ConsoleApplication1\bin\Debug\InterfaceActions.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ConsoleApplication1\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ConsoleApplication1\obj\Debug\Factories.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ConsoleApplication1\obj\Debug\Factories.pdb

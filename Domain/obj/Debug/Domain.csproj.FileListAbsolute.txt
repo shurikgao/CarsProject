@@ -1,0 +1,39 @@
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Domain\bin\Debug\Domain.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Domain\bin\Debug\Domain.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Domain\obj\Debug\Domain.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Domain\obj\Debug\Domain.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Domain\bin\Debug\Domain.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Domain\bin\Debug\Domain.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Domain\obj\Debug\Domain.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Domain\obj\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Domain\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Domain\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Domain\obj\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Domain\obj\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Domain\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Domain\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Domain\obj\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Domain\obj\Debug\Domain.pdb
+D:\amd_aga\InternshipProject\Domain\bin\Debug\Domain.dll
+D:\amd_aga\InternshipProject\Domain\bin\Debug\Domain.pdb
+D:\amd_aga\InternshipProject\Domain\obj\Debug\Domain.dll
+D:\amd_aga\InternshipProject\Domain\obj\Debug\Domain.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Domain\bin\Debug\Domain.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Domain\bin\Debug\Domain.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Domain\obj\Debug\Domain.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Domain\obj\Debug\Domain.pdb
+D:\amd_aga\InternshipProject\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Domain\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Domain\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Domain\obj\Debug\Domain.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Domain\obj\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Domain\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Domain\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Domain\obj\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Domain\obj\Debug\Domain.pdb

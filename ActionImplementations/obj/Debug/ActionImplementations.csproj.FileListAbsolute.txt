@@ -1,0 +1,72 @@
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\Domain.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\Domain.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ActionImplementations\obj\Debug\ActionImplementations.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\ActionImplementations\obj\Debug\ActionImplementations.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\Domain.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\Domain.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ActionImplementations\obj\Debug\ActionImplementations.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\ActionImplementations\obj\Debug\ActionImplementations.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ActionImplementations\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ActionImplementations\obj\Debug\ActionImplementations.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\ActionImplementations\obj\Debug\ActionImplementations.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ActionImplementations\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ActionImplementations\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ActionImplementations\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ActionImplementations\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ActionImplementations\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ActionImplementations\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ActionImplementations\obj\Debug\ActionImplementations.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\ActionImplementations\obj\Debug\ActionImplementations.pdb
+D:\amd_aga\InternshipProject\ActionImplementations\bin\Debug\ActionImplementations.dll
+D:\amd_aga\InternshipProject\ActionImplementations\bin\Debug\ActionImplementations.pdb
+D:\amd_aga\InternshipProject\ActionImplementations\bin\Debug\Domain.dll
+D:\amd_aga\InternshipProject\ActionImplementations\bin\Debug\InterfaceActions.dll
+D:\amd_aga\InternshipProject\ActionImplementations\bin\Debug\Domain.pdb
+D:\amd_aga\InternshipProject\ActionImplementations\bin\Debug\InterfaceActions.pdb
+D:\amd_aga\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+D:\amd_aga\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.dll
+D:\amd_aga\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ActionImplementations\bin\Debug\ActionImplementations.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ActionImplementations\bin\Debug\ActionImplementations.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ActionImplementations\bin\Debug\Domain.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ActionImplementations\bin\Debug\InterfaceActions.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ActionImplementations\bin\Debug\Domain.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ActionImplementations\bin\Debug\InterfaceActions.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ActionImplementations\obj\Debug\ActionImplementations.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\ActionImplementations\obj\Debug\ActionImplementations.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ActionImplementations\bin\Debug\ActionImplementations.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ActionImplementations\bin\Debug\ActionImplementations.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ActionImplementations\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ActionImplementations\bin\Debug\InterfaceActions.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ActionImplementations\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ActionImplementations\bin\Debug\InterfaceActions.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\bin\Debug\ActionImplementations.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\bin\Debug\ActionImplementations.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\bin\Debug\InterfaceActions.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\bin\Debug\InterfaceActions.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ActionImplementations\obj\Debug\ActionImplementations.pdb

@@ -1,0 +1,175 @@
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Presentation.exe
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Presentation.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Domain.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Infrastructure.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Ninject.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Domain.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Infrastructure.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Ninject.xml
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\obj\Debug\Presentation.exe
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\obj\Debug\Presentation.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Factories.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Factories.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\obj\Debug\Presentation.exe
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\obj\Debug\Presentation.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Presentation.exe
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Presentation.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Domain.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Factories.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Infrastructure.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Ninject.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Factories.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Domain.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Infrastructure.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Ninject.xml
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\obj\Debug\Presentation.exe
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\obj\Debug\Presentation.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Presentation.exe
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Presentation.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Factories.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Infrastructure.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Ninject.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Factories.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Infrastructure.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\bin\Debug\Ninject.xml
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\obj\Debug\Presentation.exe
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\obj\Debug\Presentation.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Presentation.exe
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Presentation.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Factories.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Infrastructure.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Ninject.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Factories.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Infrastructure.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\bin\Debug\Ninject.xml
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Presentation.exe
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Presentation.pdb
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\ActionImplementations.dll
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Domain.dll
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Factories.dll
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Infrastructure.dll
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\InterfaceActions.dll
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Ninject.dll
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\ActionImplementations.pdb
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Factories.pdb
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Domain.pdb
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Infrastructure.pdb
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\InterfaceActions.pdb
+D:\amd_aga\InternshipProject\Presentation\bin\Debug\Ninject.xml
+D:\amd_aga\InternshipProject\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\amd_aga\InternshipProject\Presentation\obj\Debug\Presentation.exe
+D:\amd_aga\InternshipProject\Presentation\obj\Debug\Presentation.pdb
+D:\AGA\Day 15 - Structural Patterns\Project And PROXY\Presentation\obj\Debug\Presentation.exe
+D:\AGA\Day 15 - Structural Patterns\Project And PROXY\Presentation\obj\Debug\Presentation.pdb
+D:\AGA\Day 16 - Behavioral patterns\Project\Presentation\obj\Debug\Presentation.exe
+D:\AGA\Day 16 - Behavioral patterns\Project\Presentation\obj\Debug\Presentation.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\obj\Debug\Presentation.exe
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\obj\Debug\Presentation.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Presentation.exe
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Presentation.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\ActionImplementations.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Domain.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Factories.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Infrastructure.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\InterfaceActions.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Ninject.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\ActionImplementations.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Factories.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Domain.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Infrastructure.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\InterfaceActions.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\bin\Debug\Ninject.xml
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\AGA\Day 16 - Behavioral patterns\Observer_Template\Project\Presentation\obj\Debug\Presentation.exe
+D:\AGA\Day 16 - Behavioral patterns\Observer_Template\Project\Presentation\obj\Debug\Presentation.pdb
+D:\AGA\Day 17 - TDD\MyProject\Presentation\obj\Debug\Presentation.exe
+D:\AGA\Day 17 - TDD\MyProject\Presentation\obj\Debug\Presentation.pdb
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Presentation.exe
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Presentation.pdb
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Domain.dll
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Factories.dll
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Infrastructure.dll
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Ninject.dll
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Factories.pdb
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Domain.pdb
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Infrastructure.pdb
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 17 - TDD\MyProject\Presentation\bin\Debug\Ninject.xml
+D:\AGA\Day 17 - TDD\MyProject\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\obj\Debug\Presentation.exe
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\obj\Debug\Presentation.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Presentation.exe
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Presentation.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\ActionImplementations.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Factories.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Infrastructure.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\InterfaceActions.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Ninject.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\ActionImplementations.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Factories.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Infrastructure.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\InterfaceActions.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Ninject.xml
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Presentation.exe
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Presentation.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\ActionImplementations.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Factories.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\HibernatingRhinos.Profiler.Appender.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Infrastructure.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\InterfaceActions.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\RepositoryInterfaces.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Ninject.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Repository.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\NHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\FluentNHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\DomainMapping.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Iesi.Collections.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\RepositoryInterfaces.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\ActionImplementations.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Factories.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Infrastructure.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\InterfaceActions.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Ninject.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Repository.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\NHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\FluentNHibernate.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\FluentNHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\DomainMapping.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\bin\Debug\Iesi.Collections.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\obj\Debug\Presentation.exe
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Presentation\obj\Debug\Presentation.pdb

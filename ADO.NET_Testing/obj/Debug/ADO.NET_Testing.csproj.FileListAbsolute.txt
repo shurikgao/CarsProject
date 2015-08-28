@@ -1,0 +1,54 @@
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\ADO.NET_Testing.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\obj\Debug\ADO.NET_Testing.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\obj\Debug\ADO.NET_Testing.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\ADO.NET_Testing.exe
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\obj\Debug\ADO.NET_Testing.exe
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Presentation.exe
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Factories.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Infrastructure.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\InterfaceActions.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Ninject.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\ActionImplementations.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Presentation.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Factories.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Infrastructure.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\InterfaceActions.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\Ninject.xml
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\ActionImplementations.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\ADO.NET_Testing\bin\Debug\ADO.NET_Testing.exe.config
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\ADO.NET_Testing.exe.config
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\ADO.NET_Testing.exe
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\ADO.NET_Testing.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Presentation.exe
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Factories.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Infrastructure.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\InterfaceActions.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Ninject.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\ActionImplementations.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Presentation.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Factories.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Infrastructure.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\InterfaceActions.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Ninject.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\ActionImplementations.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\obj\Debug\ADO.NET_Testing.exe
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\obj\Debug\ADO.NET_Testing.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\RepositoryInterfaces.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\HibernatingRhinos.Profiler.Appender.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Repository.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\NHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\FluentNHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\DomainMapping.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Iesi.Collections.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\RepositoryInterfaces.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Repository.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\NHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\FluentNHibernate.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\FluentNHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\DomainMapping.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\bin\Debug\Iesi.Collections.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\ADO.NET_Testing\obj\Debug\ADO.NET_Testing.csprojResolveAssemblyReference.cache

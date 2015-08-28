@@ -1,0 +1,117 @@
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Infrastructure.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Ninject.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Domain.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Ninject.xml
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Domain.pdb
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\obj\Debug\Infrastructure.dll
+D:\AGA\Day 12 - Inversion of Control\day 12 proj _ IoC_Factory\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Infrastructure.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Ninject.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Domain.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Ninject.xml
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Domain.pdb
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\obj\Debug\Infrastructure.dll
+D:\AGA\Day 14 - Encoding\day 12 proj _ IoC_Factory\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Infrastructure.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Ninject.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Ninject.xml
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\obj\Debug\Infrastructure.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ IoC_Factory\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\Infrastructure.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\ActionImplementations.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\InterfaceActions.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\Ninject.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\Domain.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\ActionImplementations.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\InterfaceActions.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\Ninject.xml
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\bin\Debug\Domain.pdb
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\obj\Debug\Infrastructure.dll
+D:\AGA\Day 15 - Structural Patterns\day 12 proj _ AddLogger\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\Infrastructure.dll
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\ActionImplementations.dll
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\InterfaceActions.dll
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\Ninject.dll
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\Domain.dll
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\ActionImplementations.pdb
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\InterfaceActions.pdb
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\Ninject.xml
+D:\amd_aga\InternshipProject\Infrastructure\bin\Debug\Domain.pdb
+D:\amd_aga\InternshipProject\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\amd_aga\InternshipProject\Infrastructure\obj\Debug\Infrastructure.dll
+D:\amd_aga\InternshipProject\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\Infrastructure.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\ActionImplementations.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\InterfaceActions.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\Ninject.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\Domain.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\ActionImplementations.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\InterfaceActions.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\Ninject.xml
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\bin\Debug\Domain.pdb
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\obj\Debug\Infrastructure.dll
+E:\AMDARIS\Day 16 - Behavior patterns\Project\Project\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\Infrastructure.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\ActionImplementations.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\InterfaceActions.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\Ninject.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\ActionImplementations.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\InterfaceActions.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\Ninject.xml
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\obj\Debug\Infrastructure.dll
+D:\AGA\2. Database access\Day 1 - Database introduction\InternshipProject\InternshipProject\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\ActionImplementations.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\InterfaceActions.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Ninject.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Repository.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\RepositoryInterfaces.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\NHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\FluentNHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\DomainMapping.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Iesi.Collections.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\RepositoryInterfaces.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Repository.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\ActionImplementations.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\InterfaceActions.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Ninject.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\NHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\FluentNHibernate.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\FluentNHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\DomainMapping.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\bin\Debug\Iesi.Collections.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\InternshipProject\Infrastructure\obj\Debug\Infrastructure.pdb
