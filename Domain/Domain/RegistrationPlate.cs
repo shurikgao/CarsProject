@@ -12,7 +12,12 @@
         {
         }
 
-        public virtual string Plate { get; protected set; }
+        public virtual string Plate { get; set; }
         public virtual Car Car { get; set; }
+
+        //public void Add()
+        //{
+        //    throw new System.NotImplementedException();
+        //}
     }
 }

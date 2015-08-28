@@ -38,7 +38,7 @@ namespace Presentation
 
             var bmw = GermanyCarFactory.CreateNewGermanyCar("BMW","X5", 3500, 100, "Sedan", "Germany", 98);
             var germanyCarFactory = new GermanyCarFactory(new EmailNotification());
-
+            
             var honda = JapanCarFactory.CreateNewJapanCar("Honda","Civic", 2000, 70, "Hatchbag", "Japan", 99);
             var japanCarFactory = new JapanCarFactory(new SmsNotification());
 
@@ -47,7 +47,7 @@ namespace Presentation
             var testDriver2 = new Driver("Fed`ka", 23, honda);
             var testDriver3 = new Driver("Gri6ka", 24, honda);
             var testDriver4 = new Driver("Bor`ka", 25, honda);
-
+            //var testPlate1 = new RegistrationPlate("DE-345-JO", bmw);
 
             bmw.Drivers.Add(testDriver);
             bmw.Drivers.Add(testDriver1);
@@ -56,7 +56,7 @@ namespace Presentation
             honda.Drivers.Add(testDriver4);
             CarRepository.Save(bmw);
             CarRepository.Save(honda);
-            CarRepository.Save(bmw);
+            
 
             DriverRepository.UpdDriverAge(205, 28);
             DriverRepository.DeleteDriver(204);
@@ -66,13 +66,13 @@ namespace Presentation
 
             var audi = GermanyCarFactory.CreateNewGermanyCar("Audi","A8", 2500, 80, "Universal", "Germany", 99);
             Console.WriteLine(new string('-', 30));
-
+            CarRepository.Save(audi);
             //var JapanCarFactory = new JapanCarFactory(); 
 
 
             var ChinaCarFactory = new ChinaCarFactory();
             var byd = ChinaCarFactory.CreateNewChinaCar("BYD","BYD", 1300, 50, "ChinaStyle", "China", 101);
-
+            CarRepository.Save(byd);
 
             #region Tuning
 
