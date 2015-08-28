@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RepositoryInterfaces.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:RepositoryInterfaces.Fakes.StubICarRepository">
+            <summary>Stub type of RepositoryInterfaces.ICarRepository</summary>
+        </member>
+        <member name="M:RepositoryInterfaces.Fakes.StubICarRepository.#ctor">
+            <summary>Initializes a new instance of type StubICarRepository</summary>
+        </member>
+        <member name="M:RepositoryInterfaces.Fakes.StubICarRepository.ri::RepositoryInterfaces#IRepository#Save``1(``0)">
+            <summary>Sets the stub of IRepository.Save(!!0 entity)</summary>
+        </member>
+        <member name="M:RepositoryInterfaces.Fakes.StubICarRepository.SaveOf1M0``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Action{``0})">
+            <summary>Sets stubs of Save(!!0 entity)</summary>
+        </member>
+        <member name="T:RepositoryInterfaces.Fakes.StubIRepository">
+            <summary>Stub type of RepositoryInterfaces.IRepository</summary>
+        </member>
+        <member name="M:RepositoryInterfaces.Fakes.StubIRepository.#ctor">
+            <summary>Initializes a new instance of type StubIRepository</summary>
+        </member>
+        <member name="M:RepositoryInterfaces.Fakes.StubIRepository.ri::RepositoryInterfaces#IRepository#Save``1(``0)">
+            <summary>Sets the stub of IRepository.Save(!!0 entity)</summary>
+        </member>
+        <member name="M:RepositoryInterfaces.Fakes.StubIRepository.SaveOf1M0``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Action{``0})">
+            <summary>Sets stubs of Save(!!0 entity)</summary>
+        </member>
+    </members>
+</doc>

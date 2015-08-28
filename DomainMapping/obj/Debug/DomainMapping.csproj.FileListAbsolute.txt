@@ -1,0 +1,84 @@
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\DomainMapping.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\DomainMapping.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\Domain.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\Iesi.Collections.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\NHibernate.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\Domain.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.xml
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\Iesi.Collections.xml
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\NHibernate.xml
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\DomainMapping.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\DomainMapping.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\Iesi.Collections.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\NHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\Iesi.Collections.xml
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\bin\Debug\NHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.pdb
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\DomainMapping.dll
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\DomainMapping.pdb
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\Domain.dll
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.dll
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\Iesi.Collections.dll
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\NHibernate.dll
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\Domain.pdb
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.pdb
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.xml
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\Iesi.Collections.xml
+D:\amd_aga\InternshipProjectTest\DomainMapping\bin\Debug\NHibernate.xml
+D:\amd_aga\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
+D:\amd_aga\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.dll
+D:\amd_aga\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\DomainMapping.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\DomainMapping.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\Iesi.Collections.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\NHibernate.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\FluentNHibernate.xml
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\Iesi.Collections.xml
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\bin\Debug\NHibernate.xml
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\DomainMapping\obj\Debug\DomainMapping.pdb
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\DomainMapping.dll
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\DomainMapping.pdb
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\Domain.dll
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\FluentNHibernate.dll
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\Iesi.Collections.dll
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\NHibernate.dll
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\Domain.pdb
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\FluentNHibernate.pdb
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\FluentNHibernate.xml
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\Iesi.Collections.xml
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\bin\Debug\NHibernate.xml
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\obj\Debug\DomainMapping.dll
+D:\amd_aga\IntershipProjectNHibernate\DomainMapping\obj\Debug\DomainMapping.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\DomainMapping.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\DomainMapping.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\FluentNHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\Iesi.Collections.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\NHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\FluentNHibernate.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\FluentNHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\Iesi.Collections.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\bin\Debug\NHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\obj\Debug\DomainMapping.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\obj\Debug\DomainMapping.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\DomainMapping\obj\Debug\DomainMapping.pdb

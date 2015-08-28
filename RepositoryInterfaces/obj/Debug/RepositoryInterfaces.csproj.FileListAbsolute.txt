@@ -1,0 +1,42 @@
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\RepositoryInterfaces\bin\Debug\Domain.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\RepositoryInterfaces\bin\Debug\Domain.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\RepositoryInterfaces\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\RepositoryInterfaces\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb
+D:\amd_aga\InternshipProjectTest\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.dll
+D:\amd_aga\InternshipProjectTest\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.pdb
+D:\amd_aga\InternshipProjectTest\RepositoryInterfaces\bin\Debug\Domain.dll
+D:\amd_aga\InternshipProjectTest\RepositoryInterfaces\bin\Debug\Domain.pdb
+D:\amd_aga\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
+D:\amd_aga\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
+D:\amd_aga\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\RepositoryInterfaces\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\RepositoryInterfaces\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb
+D:\amd_aga\IntershipProjectNHibernate\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.dll
+D:\amd_aga\IntershipProjectNHibernate\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.pdb
+D:\amd_aga\IntershipProjectNHibernate\RepositoryInterfaces\bin\Debug\Domain.dll
+D:\amd_aga\IntershipProjectNHibernate\RepositoryInterfaces\bin\Debug\Domain.pdb
+D:\amd_aga\IntershipProjectNHibernate\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
+D:\amd_aga\IntershipProjectNHibernate\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb
+D:\amd_aga\IntershipProjectNHibernate\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb

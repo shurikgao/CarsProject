@@ -1,0 +1,112 @@
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\Repository.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\Repository.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\Domain.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\DomainMapping.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\Iesi.Collections.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\NHibernate.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\RepositoryInterfaces.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\DomainMapping.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\Domain.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\RepositoryInterfaces.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.pdb
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.xml
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\Iesi.Collections.xml
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\bin\Debug\NHibernate.xml
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\obj\Debug\Repository.dll
+E:\AMDARIS\## SVN\amd_aga\InternshipProjectTest\Repository\obj\Debug\Repository.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\Repository.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\Repository.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\DomainMapping.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\Iesi.Collections.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\NHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\RepositoryInterfaces.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\DomainMapping.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\RepositoryInterfaces.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.pdb
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\Iesi.Collections.xml
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\bin\Debug\NHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\obj\Debug\Repository.dll
+C:\Users\alexandr.gavriliuc\Desktop\InternshipProjectTest_Nhibernate_Exception\InternshipProjectTest\Repository\obj\Debug\Repository.pdb
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\Repository.dll
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\Repository.pdb
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\Domain.dll
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\DomainMapping.dll
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.dll
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\Iesi.Collections.dll
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\NHibernate.dll
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\RepositoryInterfaces.dll
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\DomainMapping.pdb
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\Domain.pdb
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\RepositoryInterfaces.pdb
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.pdb
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.xml
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\Iesi.Collections.xml
+D:\amd_aga\InternshipProjectTest\Repository\bin\Debug\NHibernate.xml
+D:\amd_aga\InternshipProjectTest\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\amd_aga\InternshipProjectTest\Repository\obj\Debug\Repository.dll
+D:\amd_aga\InternshipProjectTest\Repository\obj\Debug\Repository.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\obj\Debug\Repository.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\obj\Debug\Repository.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\Repository.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\Repository.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\Domain.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\DomainMapping.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\Iesi.Collections.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\NHibernate.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\RepositoryInterfaces.dll
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\DomainMapping.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\Domain.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\RepositoryInterfaces.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.pdb
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\FluentNHibernate.xml
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\Iesi.Collections.xml
+D:\AGA\2. Database access\Day 8 - Using ISession and Mapping\InternshipProjectTest_Day8\InternshipProjectTest\Repository\bin\Debug\NHibernate.xml
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\Repository.dll
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\Repository.pdb
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\Domain.dll
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\DomainMapping.dll
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\FluentNHibernate.dll
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\Iesi.Collections.dll
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\NHibernate.dll
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\RepositoryInterfaces.dll
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\DomainMapping.pdb
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\Domain.pdb
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\RepositoryInterfaces.pdb
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\FluentNHibernate.pdb
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\FluentNHibernate.xml
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\Iesi.Collections.xml
+D:\amd_aga\IntershipProjectNHibernate\Repository\bin\Debug\NHibernate.xml
+D:\amd_aga\IntershipProjectNHibernate\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\amd_aga\IntershipProjectNHibernate\Repository\obj\Debug\Repository.dll
+D:\amd_aga\IntershipProjectNHibernate\Repository\obj\Debug\Repository.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\Repository.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\Repository.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\Domain.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\DomainMapping.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\FluentNHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\Iesi.Collections.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\NHibernate.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\RepositoryInterfaces.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\DomainMapping.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\Domain.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\RepositoryInterfaces.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\FluentNHibernate.pdb
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\FluentNHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\Iesi.Collections.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\bin\Debug\NHibernate.xml
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\obj\Debug\Repository.dll
+C:\Users\alexandr.gavriliuc\Desktop\SuperBKUP\IntershipProjectNHibernate\Repository\obj\Debug\Repository.pdb

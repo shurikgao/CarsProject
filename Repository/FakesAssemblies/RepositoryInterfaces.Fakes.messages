@@ -1,0 +1,2 @@
+D:\amd_aga\InternshipProjectTest\Repository\Fakes\RepositoryInterfaces.fakes : warning : Cannot generate shim for RepositoryInterfaces.IRepository: type is an interface.
+D:\amd_aga\InternshipProjectTest\Repository\Fakes\RepositoryInterfaces.fakes : warning : Cannot generate shim for RepositoryInterfaces.ICarRepository: type is an interface.
