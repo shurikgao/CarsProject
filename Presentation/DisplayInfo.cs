@@ -12,13 +12,6 @@ namespace Presentation
 {
     internal class DisplayInfo
     {
-        static DisplayInfo()
-        {
-            ServiceLocator.RegisterAll();
-
-            NHibernateProfiler.Initialize();
-        }
-
         private static GermanyCarFactory GermanyCarFactory;
         private static JapanCarFactory JapanCarFactory;
         // private static ChinaCarFactory ChinaCarFactory;
@@ -26,8 +19,14 @@ namespace Presentation
         private static ITuningRepository TuningRepository;
         private static ICarRepository CarRepository;
         private static IDriverRepository DriverRepository;
-
         private static RDSTransmitter RdsTrans;
+
+        static DisplayInfo()
+        {
+            ServiceLocator.RegisterAll();
+
+            NHibernateProfiler.Initialize();
+        }
 
         private static void Main(string[] args)
         {
@@ -37,10 +36,10 @@ namespace Presentation
             CarRepository = ServiceLocator.Get<ICarRepository>();
             DriverRepository = ServiceLocator.Get<IDriverRepository>();
 
-            var bmw = GermanyCarFactory.CreateNewGermanyCar("BMW","X5", 3500, 100, "Sedan", "Germany", 98);
+            var bmw = GermanyCarFactory.CreateNewGermanyCar("BMW", "X5", 3500, 100, "Sedan", "Germany", 98);
             var germanyCarFactory = new GermanyCarFactory(new EmailNotification());
-            
-            var honda = JapanCarFactory.CreateNewJapanCar("Honda","Civic", 2000, 70, "Hatchbag", "Japan", 99);
+
+            var honda = JapanCarFactory.CreateNewJapanCar("Honda", "Civic", 2000, 70, "Hatchbag", "Japan", 99);
             var japanCarFactory = new JapanCarFactory(new SmsNotification());
 
             var testDriver = new Driver("UasiaWay", 21, bmw);
@@ -57,7 +56,7 @@ namespace Presentation
             honda.Drivers.Add(testDriver4);
             CarRepository.Save(bmw);
             CarRepository.Save(honda);
-            
+
 
             DriverRepository.UpdDriverAge(205, 28);
             DriverRepository.DeleteDriver(204);
@@ -65,14 +64,14 @@ namespace Presentation
             Console.ReadKey();
 
 
-            var audi = GermanyCarFactory.CreateNewGermanyCar("Audi","A8", 2500, 80, "Universal", "Germany", 99);
+            var audi = GermanyCarFactory.CreateNewGermanyCar("Audi", "A8", 2500, 80, "Universal", "Germany", 99);
             Console.WriteLine(new string('-', 30));
             CarRepository.Save(audi);
             //var JapanCarFactory = new JapanCarFactory(); 
 
 
             var ChinaCarFactory = new ChinaCarFactory();
-            var byd = ChinaCarFactory.CreateNewChinaCar("BYD","*BYD*", 1300, 50, "ChinaStyle", "China", 101);
+            var byd = ChinaCarFactory.CreateNewChinaCar("BYD", "*BYD*", 1300, 50, "ChinaStyle", "China", 101);
             CarRepository.Save(byd);
 
             #region Tuning
@@ -80,10 +79,10 @@ namespace Presentation
             Tuning.TuneAir(audi);
             Tuning.TuneAlarm(bmw);
             Tuning.TuneCar(byd);
-            
+
             Console.WriteLine(new string('=', 30));
 
-            var tuneAudi = new Tuning('Y','N','N', audi);
+            var tuneAudi = new Tuning('Y', 'N', 'N', audi);
             audi.Tunings.Add(tuneAudi);
             CarRepository.Save(audi);
             var tuneBmw = new Tuning('N', 'Y', 'N', bmw);
@@ -92,6 +91,7 @@ namespace Presentation
             var tuneByd = new Tuning('Y', 'Y', 'Y', byd);
             byd.Tunings.Add(tuneByd);
             CarRepository.Save(byd);
+       //     TuningRepository.TuneCar(404,'Y');
 
             #endregion
 
@@ -121,7 +121,7 @@ namespace Presentation
 
             #region China car info
 
-            Console.WriteLine("ChinaCar : " + byd.Brand+ " " + byd.Name);
+            Console.WriteLine("ChinaCar : " + byd.Brand + " " + byd.Name);
             Console.WriteLine(byd.Name + " engine: " + byd.EngineIsStarted);
             Console.WriteLine(byd.Name + " lights: " + byd.lights);
             Console.WriteLine(new string('-', 30));
@@ -134,7 +134,7 @@ namespace Presentation
 
             audi.BattOk = false;
             byd.BattOk = false;
-            Service srv = new Service();
+            var srv = new Service();
 
             #region Service check
 
@@ -185,7 +185,7 @@ namespace Presentation
             Console.ReadLine();
         }
 
-      private static void UseProxy(Car car1, Car car2, Car car3)
+        private static void UseProxy(Car car1, Car car2, Car car3)
         {
             var car = new CarProxy(new DriverProxy("Otto  ", true, false), car1);
             car.Drive();
