@@ -55,6 +55,7 @@
     <Compile Include="RegistrationPlateRepository.cs" />
     <Compile Include="Repository.cs" />
     <Compile Include="SessionGenerator.cs" />
+    <Compile Include="TuningRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DomainMapping\DomainMapping.csproj">

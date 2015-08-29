@@ -137,6 +137,7 @@ D:\GiT\Internship_Project\CarsProject\Infrastructure\bin\Debug\DomainMapping.pdb
 D:\GiT\Internship_Project\CarsProject\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
 D:\GiT\Internship_Project\CarsProject\Infrastructure\obj\Debug\Infrastructure.dll
 D:\GiT\Internship_Project\CarsProject\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\AMDARIS\## GitHub\CarsProject\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
 E:\AMDARIS\## GitHub\CarsProject\Infrastructure\bin\Debug\Infrastructure.dll
 E:\AMDARIS\## GitHub\CarsProject\Infrastructure\bin\Debug\Infrastructure.pdb
 E:\AMDARIS\## GitHub\CarsProject\Infrastructure\bin\Debug\ActionImplementations.dll
@@ -156,6 +157,5 @@ E:\AMDARIS\## GitHub\CarsProject\Infrastructure\bin\Debug\RepositoryInterfaces.p
 E:\AMDARIS\## GitHub\CarsProject\Infrastructure\bin\Debug\Repository.pdb
 E:\AMDARIS\## GitHub\CarsProject\Infrastructure\bin\Debug\Ninject.xml
 E:\AMDARIS\## GitHub\CarsProject\Infrastructure\bin\Debug\DomainMapping.pdb
-E:\AMDARIS\## GitHub\CarsProject\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
 E:\AMDARIS\## GitHub\CarsProject\Infrastructure\obj\Debug\Infrastructure.dll
 E:\AMDARIS\## GitHub\CarsProject\Infrastructure\obj\Debug\Infrastructure.pdb

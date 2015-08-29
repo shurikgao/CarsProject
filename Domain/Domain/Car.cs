@@ -10,6 +10,7 @@ namespace Domain.Domain
 {
     public class Car : Entity, ITuning, IStartAirConditioner
     {
+        private readonly IList<Tuning> _tunings = new List<Tuning>(); 
         private readonly IList<Driver> _drivers = new List<Driver>();
         protected bool Lights;
         //public bool SystemOk;
@@ -61,6 +62,10 @@ namespace Domain.Domain
         public virtual RegistrationPlate Plate
         { get; set; }
 
+        public virtual IList<Tuning> Tunings
+        {
+            get { return _tunings; }
+        }
         public virtual IList<Driver> Drivers
         {
             get { return _drivers; }

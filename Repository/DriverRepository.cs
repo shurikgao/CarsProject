@@ -35,7 +35,7 @@ namespace Repository
             {
                 try
                 {
-                    var driver = _session.Get<Driver>(id);
+                    var driver = _session.Get<Driver>(id); 
                     driver.Age = newAge;
                     Console.WriteLine("Driver info is updating...");
                     _session.Update(driver);

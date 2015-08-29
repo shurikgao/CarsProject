@@ -23,6 +23,7 @@ namespace Presentation
         private static JapanCarFactory JapanCarFactory;
         // private static ChinaCarFactory ChinaCarFactory;
 
+        private static ITuningRepository TuningRepository;
         private static ICarRepository CarRepository;
         private static IDriverRepository DriverRepository;
 
@@ -71,16 +72,26 @@ namespace Presentation
 
 
             var ChinaCarFactory = new ChinaCarFactory();
-            var byd = ChinaCarFactory.CreateNewChinaCar("BYD","BYD", 1300, 50, "ChinaStyle", "China", 101);
+            var byd = ChinaCarFactory.CreateNewChinaCar("BYD","*BYD*", 1300, 50, "ChinaStyle", "China", 101);
             CarRepository.Save(byd);
 
             #region Tuning
 
             Tuning.TuneAir(audi);
             Tuning.TuneAlarm(bmw);
-            Tuning.TunePark(audi);
             Tuning.TuneCar(byd);
+            
             Console.WriteLine(new string('=', 30));
+
+            var tuneAudi = new Tuning('Y','N','N', audi);
+            audi.Tunings.Add(tuneAudi);
+            CarRepository.Save(audi);
+            var tuneBmw = new Tuning('N', 'Y', 'N', bmw);
+            bmw.Tunings.Add(tuneBmw);
+            CarRepository.Save(bmw);
+            var tuneByd = new Tuning('Y', 'Y', 'Y', byd);
+            byd.Tunings.Add(tuneByd);
+            CarRepository.Save(byd);
 
             #endregion
 
