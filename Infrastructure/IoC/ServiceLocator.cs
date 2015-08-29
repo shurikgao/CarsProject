@@ -16,6 +16,7 @@ namespace Infrastructure.IoC
             Kernel.Bind<INotifyUsersAction2>().To<SmsNotification>();
             Kernel.Bind<ICarRepository>().To<CarRepository>();
             Kernel.Bind<IDriverRepository>().To<DriverRepository>();
+            Kernel.Bind<ITuningRepository>().To<TuningRepository>();
         }
 
         public static T Get<T>()
