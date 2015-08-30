@@ -3,9 +3,17 @@ using System.Globalization;
 
 namespace Domain.Domain
 {
-    public class Service
+    public class Service : Entity
     {
-        public void Check(Car car)
+        public Service(Car car)
+        {
+            Car = car;
+        }
+        protected Service()
+        { }
+
+        public virtual Car Car { get; set; }
+        public static void Check(Car car)
         {
             if (car.SystemOk)
             {
@@ -15,12 +23,12 @@ namespace Domain.Domain
             else
             {
                 Console.WriteLine("Info=Service is needed - {0,-13} deffect = Battery{1,8}", car.Brand + " " + car.Name, car.BattOk);
-
+                
                 Console.WriteLine(new string('-', 30));
             }
         }
 
-        public void Repair(Car car)
+        public static void Repair(Car car)
         {
             if (car.BattOk == false)
             {
@@ -29,6 +37,9 @@ namespace Domain.Domain
             car.CheckAllSystem();
             var bill = CashRegister.Payd;
             bill.AddBill(200);
+            var carService = new Service(car);
+            car.Services.Add(carService);
+            
             Console.WriteLine(" {0,26} Repaired.  Please pay:{1,14}", car.Brand + " " + car.Name,
                 bill.BillSize.ToString("C", CultureInfo.CurrentCulture));
             //bill.AddBill(200); 

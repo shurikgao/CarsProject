@@ -12,6 +12,7 @@ namespace Domain.Domain
     {
         private readonly IList<Tuning> _tunings = new List<Tuning>(); 
         private readonly IList<Driver> _drivers = new List<Driver>();
+        private readonly IList<Service> _services = new List<Service>(); 
         protected bool Lights;
         //public bool SystemOk;
         //public bool BattOk = true;
@@ -61,7 +62,10 @@ namespace Domain.Domain
         
         public virtual RegistrationPlate Plate
         { get; set; }
-
+        public virtual IList<Service> Services
+        {
+            get { return _services; }
+        }
         public virtual IList<Tuning> Tunings
         {
             get { return _tunings; }

@@ -54,6 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegistrationPlateRepository.cs" />
     <Compile Include="Repository.cs" />
+    <Compile Include="ServiceRepository.cs" />
     <Compile Include="SessionGenerator.cs" />
     <Compile Include="TuningRepository.cs" />
   </ItemGroup>

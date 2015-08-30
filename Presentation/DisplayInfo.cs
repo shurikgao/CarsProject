@@ -19,6 +19,7 @@ namespace Presentation
         private static ITuningRepository TuningRepository;
         private static ICarRepository CarRepository;
         private static IDriverRepository DriverRepository;
+        private static IServiceRepository ServiceRepository;
         private static RDSTransmitter RdsTrans;
 
         static DisplayInfo()
@@ -134,17 +135,18 @@ namespace Presentation
 
             audi.BattOk = false;
             byd.BattOk = false;
-            var srv = new Service();
+         //   var srv = new Service();
 
             #region Service check
 
-            srv.Check(bmw);
-            srv.Check(honda);
-            srv.Check(byd);
+            Service.Check(bmw);
+            Service.Check(honda);
+            Service.Check(byd);
             Console.WriteLine();
-            srv.Check(audi);
-            srv.Repair(audi);
-            srv.Check(audi);
+            Service.Check(audi);
+            Service.Repair(audi);
+            CarRepository.Save(audi);
+            Service.Check(audi);
             Console.WriteLine();
 
             #endregion
