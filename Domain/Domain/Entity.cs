@@ -37,6 +37,7 @@ namespace Domain
         #endregion
 
         #region Public members
+        public virtual long Version { get; protected set; }
 
         public virtual long Id { get; protected set; }
 
