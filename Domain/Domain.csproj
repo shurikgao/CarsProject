@@ -55,6 +55,8 @@
     <Compile Include="Domain\Proxy\IDrive.cs" />
     <Compile Include="Domain\Proxy\DriverProxy.cs" />
     <Compile Include="Domain\Service.cs" />
+    <Compile Include="Domain\SpareItem.cs" />
+    <Compile Include="Domain\SpareParts.cs" />
     <Compile Include="Domain\TemplateMethod\IStartAirConditioner.cs" />
     <Compile Include="Domain\Driver.cs" />
     <Compile Include="Domain\Entity.cs" />

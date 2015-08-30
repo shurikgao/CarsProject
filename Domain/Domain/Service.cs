@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Globalization;
 
 namespace Domain.Domain
@@ -12,7 +13,15 @@ namespace Domain.Domain
         protected Service()
         { }
 
+        private readonly IList<SpareParts> _sparePartses = new List<SpareParts>();
+
+        public virtual IList<SpareParts> SparePartses
+        {
+            get { return _sparePartses; }
+        }
+
         public virtual Car Car { get; set; }
+       
         public static void Check(Car car)
         {
             if (car.SystemOk)

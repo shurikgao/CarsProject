@@ -7,6 +7,7 @@ namespace DomainMapping
         public ServiceMap()
         {
             References(x => x.Car);
+            HasMany(x => x.SparePartses).Cascade.SaveUpdate().Inverse();
         }
     }
 }
