@@ -10,21 +10,13 @@ namespace Domain.Domain
 {
     public class Car : Entity, ITuning, IStartAirConditioner
     {
-        private readonly IList<Tuning> _tunings = new List<Tuning>(); 
         private readonly IList<Driver> _drivers = new List<Driver>();
-        private readonly IList<Service> _services = new List<Service>(); 
-        protected bool Lights;
-        //public bool SystemOk;
-        //public bool BattOk = true;
+        private readonly IList<Service> _services = new List<Service>();
+        private readonly IList<Tuning> _tunings = new List<Tuning>();
         protected IRdsSubscriber _receiver;
+        protected bool Lights;
 
-        public virtual IRdsSubscriber Receiver
-        {
-            get { return _receiver; }
-        }
-
-
-        public Car(string brand,string name, int engineVol, int tankVol, string bodyType, string countryOfOrigin)
+        public Car(string brand, string name, int engineVol, int tankVol, string bodyType, string countryOfOrigin)
         {
             if (string.IsNullOrWhiteSpace(name))
                 throw new ArgumentException("name is required.");
@@ -51,25 +43,23 @@ namespace Domain.Domain
         {
         }
 
-        public virtual bool SystemOk { get; set; }
-        public virtual bool BattOk { get; set; }
-        public virtual string Brand { get; set; }
-        public virtual string Name { get; protected set; }
-        public virtual int EngineVol { get; protected set; }
-        public virtual int TankVol { get; protected set; }
-        public virtual string BodyType { get; protected set; }
-        public virtual string CountryOfOrigin { get; protected set; }
-        
-        public virtual RegistrationPlate Plate
-        { get; set; }
+        public virtual IRdsSubscriber Receiver
+        {
+            get { return _receiver; }
+        }
+
+        public virtual RegistrationPlate Plate { get; set; }
+
         public virtual IList<Service> Services
         {
             get { return _services; }
         }
+
         public virtual IList<Tuning> Tunings
         {
             get { return _tunings; }
         }
+
         public virtual IList<Driver> Drivers
         {
             get { return _drivers; }
@@ -103,7 +93,7 @@ namespace Domain.Domain
         public virtual void AddTuning()
         {
             Console.WriteLine(new string('+', 10));
-            Console.WriteLine("Car " + Brand +" " + Name + " ready for tune");
+            Console.WriteLine("Car " + Brand + " " + Name + " ready for tune");
         }
 
         public virtual bool GetSystemStatus()
@@ -144,7 +134,8 @@ namespace Domain.Domain
 
         public override string ToString()
         {
-            return "Car:" + Brand + " " + Name + " " + BodyType + " / engine: " + EngineIsStarted + " / lights:" + lights;
+            return "Car:" + Brand + " " + Name + " " + BodyType + " / engine: " + EngineIsStarted + " / lights:" +
+                   lights;
         }
 
         protected virtual void CloseWindows()
@@ -156,5 +147,18 @@ namespace Domain.Domain
         {
             Console.WriteLine("{0,-20} Let`s Go - o - o -o -o.", DriverProxy.Name);
         }
+
+        #region Fields
+
+        public virtual bool SystemOk { get; set; }
+        public virtual bool BattOk { get; set; }
+        public virtual string Brand { get; set; }
+        public virtual string Name { get; protected set; }
+        public virtual int EngineVol { get; protected set; }
+        public virtual int TankVol { get; protected set; }
+        public virtual string BodyType { get; protected set; }
+        public virtual string CountryOfOrigin { get; protected set; }
+
+        #endregion
     }
 }

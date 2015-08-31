@@ -43,7 +43,7 @@ namespace Presentation
             var honda = JapanCarFactory.CreateNewJapanCar("Honda", "Civic", 2000, 70, "Hatchbag", "Japan", 99);
             var japanCarFactory = new JapanCarFactory(new SmsNotification());
 
-            var testDriver = new Driver("UasiaWay", 21, bmw);
+            var testDriver = new Driver("UasiaWay", 17, bmw);
             var testDriver1 = new Driver("JoriK", 22, bmw);
             var testDriver2 = new Driver("Fed`ka", 23, honda);
             var testDriver3 = new Driver("Gri6ka", 24, honda);
